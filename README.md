@@ -11,11 +11,11 @@ Este repositório contém o código-fonte para um sistema simples de gerenciamen
 ## Como rodar o projeto:
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/lnrdoliveira/CafeMenuApp/
 
 2. Acesse o diretório do projeto:
    ```bash
-   cd seu-repositorio
+   cd CafeMenuApp
 
 3. Compile e execute o programa usando:
    ```bash
